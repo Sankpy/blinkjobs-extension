@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "BlinkJobs - Freshest Job & Post Scanner",
+  "description": "Get job listings and related hiring posts on LinkedIn within 1 hour of posting.",
+  "version": "2.0",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
